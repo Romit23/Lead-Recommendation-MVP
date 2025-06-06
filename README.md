@@ -11,7 +11,7 @@ A full-stack application that combines machine learning with sales automation to
 
 ### 🧠 Intelligent Lead Processing
 - **Predictive Scoring**: ML model (Random Forest) generates 0-100 quality scores
-- **Real-Time Verification**: Email/Domain validation using Hunter.io API
+- **Real-Time Verification**: Email validation using Hunter.io API
 - **Adaptive Learning**: Incorporates conversion feedback to improve scoring
 
 ### 💼 Sales Productivity Tools
