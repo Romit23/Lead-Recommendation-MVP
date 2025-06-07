@@ -59,7 +59,7 @@ uvicorn main:app --reload & streamlit run app.py
 docker-compose up --build
 ```
 Access:
-- Frontend: `http://localhost:8501`
+- Frontend: `http://localhost:8501` (Please refresh the page a few times because the Hunter API has reached it's monthly free quota)
 - Backend API: `http://localhost:8000/docs`
 
 ## 📂 Repository Structure
