@@ -62,25 +62,6 @@ Access:
 - Frontend: `http://localhost:8501` (Please refresh the page a few times because the Hunter API has reached it's monthly free quota)
 - Backend API: `http://localhost:8000/docs`
 
-## 📂 Repository Structure
-```
-Lead-Recommendation-MVP/
-├── app/                  # Frontend components
-│   ├── app.py            # Streamlit application
-│   └── assets/           # Static files
-├── backend/              # API components
-│   ├── main.py           # FastAPI endpoints
-│   ├── lead_scorer.py    # ML model
-│   └── hunter_verifier.py # Email verification
-├── data/                 # Sample datasets
-│   └── leads.csv         # Demo lead data
-├── tests/                # Test cases
-├── .env          # Environment template
-├── requirements.txt      # Python dependencies
-├── docker-compose.yml    # Container configuration
-└── README.md             # This document
-```
-
 
 
 
